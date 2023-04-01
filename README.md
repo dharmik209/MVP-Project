@@ -1,1 +1,7 @@
 # MVP-Project
+
+The project is based on Machine Learning and focuses on capturing the face and name of individuals to enhance security measures. The system is designed in such a way that it cannot be operated without the correct face and name inputs. This feature can be useful in scenarios where children are playing and could accidentally trigger the system. The operator must enter the correct face and name to operate the system.
+
+The primary use of this system is in retail stores where the system can be installed to eliminate the need for human interaction. Once the system is installed, the store owner no longer needs to employ people to monitor and manage the store. Customers can pay for their purchases through a subscription-based system or with cash or online transactions. The system captures the payment and fulfills the customer's order. The products available for purchase are displayed on the system's interface, and customers can browse through them to find what they need.
+
+This system can be beneficial for store owners as it reduces the need for employees, and their profits can increase. For example, if a store owner employs twenty people whose total salary is 10000 rupees, the owner can reduce their costs by using this system and pay only 1 lakh rupees per month for the subscription. This system can streamline the entire retail process, making it more efficient and profitable for store owners.
